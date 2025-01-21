@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
 
+#TODO: przygotować sample plik z danymi, który działa
+# TODO: przygotować readme po polsku i po angielsku
+#TODO aha no i sprawdzic czy działa po zmianach (ale powinno być wsyzstko git bo tylko usuwałam kometnarze)
+
 st.set_page_config(layout="wide")
 
 st.write("# Statystyki zatrudnienia absolwentów")

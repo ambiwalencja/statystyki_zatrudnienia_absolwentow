@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from functions import create_one_variable_plot, process_data, create_course_list, create_year_list, create_funding_source_list
 
-# czcionka Helvetica, Tahoma, Arial, Verdana - ?
 
 st.set_page_config(layout="wide")
 
